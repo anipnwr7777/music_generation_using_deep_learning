@@ -8,4 +8,8 @@ from the training data. It has to understand the patterns of music to generate n
 We here are not expecting our model to generate new music which is of professional quality, but
 we want it to generate a decent quality music which should be melodious and good to hear. 
 
-though it can be implemented in many ways but we have done it using LSTM.
+Though it can be implemented in many ways but we have done it using LSTM.
+
+Also we are doing it for one instrument only and in the future can be done on multiple instruments.
+
+Run the python file having the dataset in the directory and try changing the epochs, layers and increasing dataset to get better accuracy.
